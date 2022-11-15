@@ -1,6 +1,6 @@
 # Data_Visualization
 
-:bar_chart: *Here you can find examples of dashboards and presentations that I have developed*
+:bar_chart: Here you can find examples of dashboards and presentations that I have developed
 
 ## Tableau:
 
